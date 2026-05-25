@@ -1,4 +1,4 @@
-# 🏫 FixMyCampus
+# 🏫 FixMyCampus - A smart Student Report Issue & Tracking System
 
 A comprehensive web-based platform for managing campus maintenance and facility issues. Students can report problems, and administrators can track, manage, and resolve issues efficiently.
 
